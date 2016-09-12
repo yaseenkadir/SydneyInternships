@@ -4,13 +4,13 @@ List of companies offering Software Developer/Engineer internships in Sydney. If
 #### A
 * [Accenture](https://www.accenture.com/au-en/careers/graduate-home)
 * [Atlassian](https://www.atlassian.com/company/careers/students/interns)
-* [Australian Signals Directorate](http://www.asd.gov.au/careers/internships.htm) - CLOSED
+* [Australian Signals Directorate](http://www.asd.gov.au/careers/internships.htm)
 
 #### B
-* [Bulletproof](http://www.bulletproof.net.au/about-bulletproof/careers/) (send email)
+* [Bulletproof](http://www.bulletproof.net.au/about-bulletproof/careers/)
 
 #### C
-* [Commbank](https://www.commbank.com.au/about-us/careers/graduate-recruitment-program.html) - CLOSED
+* [Commbank](https://www.commbank.com.au/about-us/careers/graduate-recruitment-program.html)
 
 #### D
 * [Deutsche Bank](https://www.db.com/careers/en/grad/index.html)
@@ -22,14 +22,14 @@ List of companies offering Software Developer/Engineer internships in Sydney. If
 
 #### G
 * [GBST](http://graduate.gbst.com/internships.cfm)
-* [Google](https://www.google.com/about/careers/students/) - CLOSED
+* [Google](https://www.google.com/about/careers/students/)
 
 #### H
 
 #### I
 * [IBM](http://ibm.com/jobs/)
 * [IMC](http://imcgraduates.com.au/)
-* [IR](http://www.ir.com/careers/graduate/index.html) - CLOSED
+* [IR](http://www.ir.com/careers/graduate/index.html)
 
 #### J
 
@@ -39,7 +39,7 @@ List of companies offering Software Developer/Engineer internships in Sydney. If
 #### L
 
 #### M
-* [Macquarie](http://www.macquarie.com/au/about/careers/graduate/grads-and-intern-program) - CLOSED
+* [Macquarie](http://www.macquarie.com/au/about/careers/graduate/grads-and-intern-program)
 
 #### N
 
@@ -48,7 +48,7 @@ List of companies offering Software Developer/Engineer internships in Sydney. If
 
 #### P
 
-* [Price Waterhouse Coopers](http://www.pwc.com.au/student-careers/vacation.html) - CLOSED
+* [Price Waterhouse Coopers](http://www.pwc.com.au/student-careers/vacation.html)
 * [Palantir](https://www.palantir.com/college/internships/)
 
 #### Q
@@ -67,9 +67,9 @@ List of companies offering Software Developer/Engineer internships in Sydney. If
 #### V
 
 #### W
-* [Westpac Group](https://graduates.westpacgroup.com.au/internships-programs) - Risk management stream takes CompSci students - CLOSED
-* [WiseTech Global](http://www.wisetechglobal.com/careers/intern-program) (send email)
-* [Woolworths](http://www.wowgrads.com.au/page/internships/) - CLOSED
+* [Westpac Group](https://graduates.westpacgroup.com.au/internships-programs)
+* [WiseTech Global](http://www.wisetechglobal.com/careers/intern-program)
+* [Woolworths](http://www.wowgrads.com.au/page/internships/)
 
 #### X
 
@@ -77,4 +77,4 @@ List of companies offering Software Developer/Engineer internships in Sydney. If
 
 #### Z
 
-Last Updated 14th of August 2016.
+Last Updated 12th of September 2016.
